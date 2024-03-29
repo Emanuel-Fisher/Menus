@@ -1,0 +1,24 @@
+.menu {
+    width: 400px;
+    height: 550px;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid #ccc;
+    text-align: center;
+}
+
+.breakfast {
+    background-image: url(breakfast.jpg);
+    background-repeat: no-repeat;
+}
+
+.lunch {
+    background-image: url(lunch.jpg);
+    background-position: center;
+}
+
+.dinner {
+    background-image: url(dinner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
